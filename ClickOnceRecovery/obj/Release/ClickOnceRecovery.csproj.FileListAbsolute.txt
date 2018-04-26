@@ -1,0 +1,11 @@
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\bin\Release\ClickOnceRecovery.exe.config
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\bin\Release\ClickOnceRecovery.exe
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\bin\Release\ClickOnceRecovery.pdb
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.Form1.resources
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.Properties.Resources.resources
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.csproj.GenerateResource.Cache
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.exe
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.pdb
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.csprojResolveAssemblyReference.cache
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\Work\Development\ClickOnceRecovery\ClickOnceRecovery\obj\Release\ClickOnceRecovery.csproj.ResolveComReference.cache
